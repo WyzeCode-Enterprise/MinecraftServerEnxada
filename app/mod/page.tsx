@@ -5,7 +5,7 @@ import { useEffect } from "react"
 export default function ModPage() {
   useEffect(() => {
     // Redireciona automaticamente para o MediaFire
-    window.location.href = "https://www.mediafire.com/file/5sd61wssv6u5uxn/mods.rar/file"
+    window.location.href = "https://www.mediafire.com/file/l0tgszopunilz23/LABUBU+CRAFT+MODS.rar/file"
   }, [])
 
   return (
