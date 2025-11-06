@@ -4,7 +4,7 @@ import { useEffect } from "react"
 
 export default function ModPage() {
   useEffect(() => {
-    window.location.href = "https://www.mediafire.com/file/7oydvk9ahsf9c3t/mods.rar/file"
+    window.location.href = "https://drive.google.com/file/d/1oeV4_TT71NKhixr48poGlXCP72hd0qTa/view?usp=sharing"
   }, [])
 
   return (
